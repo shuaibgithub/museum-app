@@ -27,6 +27,13 @@ h2 {
     margin: 1rem;
 }
 
+#gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
 
  
  
